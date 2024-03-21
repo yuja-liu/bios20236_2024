@@ -67,7 +67,7 @@ Then, install the packages we need for the class
 conda install jupyter scipy numpy matplotlib
 ```
 
-This should conclude the installation (we may need other packages along the way, though). Finally, launch your Jupyter notebook by typing in the terminal
+This should conclude the installation (we may need other packages along the way, though). Finally, launch your Jupyter notebook by typing in the terminal. A new tab will appear in your web browser which allows you to navigate through your files and open/create a notebook.
 
 ```
 jupyter notebook --notebook-dir <directory to your notebooks>
